@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RSeum
-- 👀 I’m interested in playing games, like LOL, APEX.
-- 🌱 I’m currently learning network slicing.
+- 👀 I’m interested in playing games, like LOL, APEX and XBOX.
+- 🌱 I’m currently learning network slicing and resource management.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
